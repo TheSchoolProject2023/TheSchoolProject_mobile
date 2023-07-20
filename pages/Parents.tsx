@@ -1,0 +1,2 @@
+const ParentsView = () => (<></>);
+export { ParentsView };

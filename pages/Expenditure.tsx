@@ -1,0 +1,2 @@
+const ExpenditureView = () => (<></>);
+export {ExpenditureView};
